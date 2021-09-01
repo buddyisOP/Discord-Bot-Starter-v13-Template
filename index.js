@@ -7,6 +7,6 @@ client.slash_commands = new Collection();
 client.aliases = new Collection();
 client.settings = { prefix, color, ownerId }
 
-for(let handler of  ["slash_command", "prefix_command", "event"]) require(`./handlers/${handler}`)(client);
+for(let handler of  ["slash_command", "prefix_command", "event"]) require(`./handler/${handler}`)(client);
 
 client.login(token)
