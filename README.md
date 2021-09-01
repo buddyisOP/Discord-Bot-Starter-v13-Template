@@ -4,7 +4,7 @@ The best v13 template for discord.js
 more features. (Learn together.)
 
 
-## Screenshots
+## Thumbnail
 
 ![Thumbnail](https://media.discordapp.net/attachments/832211530694000663/882536677321633802/20210901_133401.jpg)
 
