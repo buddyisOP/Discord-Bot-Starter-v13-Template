@@ -1,5 +1,5 @@
 {
-    "token": "TOKEN",
+    "token": "ODgyNTYyNDIxNTI3NTU2MDk3.YS9MTg.LWlspobNXGfUzZYelXExebziBsg",
     "prefix": "?",
     "color": {
         "positive": "GREEN",
@@ -7,5 +7,5 @@
         "neutral": "BLUE",
         "warn": "YELLOW"
     },
-    "ownerId": "OWNER ID"
+    "ownerId": "OWNER "
 }

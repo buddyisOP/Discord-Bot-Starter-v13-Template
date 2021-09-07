@@ -11,7 +11,7 @@ module.exports = {
             if(command) await command.run(client, interaction)
         } catch (err) {
             console.log(err)
-            return interaction.followUp(`Something went wrong while executing the command.`)
+            return interaction.followUp(`Something went wrong while executing the slash_command.`)
         }
     }
 }
